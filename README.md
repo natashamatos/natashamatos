@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Eu sou da Venezuela<br><br>- 🔭 Estou estudando Desenvolvimento de Sistemas<br>- ⚡ No meu tempo livre eu gosto de ler</p>
+<p align="left">Eu sou da Venezuela<br><br>- 🔭 Estou estudando Desenvolvimento de Sistemas<br>- 🔭 O que eu mais gosto no meu curso é aprender a desevolver codigos<br>- ⚡ No meu tempo livre eu gosto de ler</p>
 
 ###
 
